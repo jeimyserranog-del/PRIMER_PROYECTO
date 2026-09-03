@@ -3,6 +3,7 @@
         "title":"RECOMENDACIONES DE LIBROS FELIPE Y JEIMY",
         "descripcion":" Bienvenidos a nuestra Biblioteca, este es un espacio creado para compartir los libros que más nos han marcado cada libro que aparece fue elegido porque realmente vale la pena, ya sea por lo que enseña o por la forma en que te hace pensar diferente.",
         "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg"
+        
     },
     {
         "id": 1,
@@ -27,23 +28,23 @@
     },
     {
         "id": 4,
-        "title":"TITULO",
-        "descripcion":" DESCRIP",
-        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+        "title":"College Success",
+        "descripcion":" College Success es un libro que ofrece estrategias y consejos prácticos para ayudar a los estudiantes universitarios a tener éxito académico y personal durante su experiencia universitaria.",
+        "img":"https://m.media-amazon.com/images/I/21NnO4C85ZL._SX342_SY445_ML2_.jpg",
         "color":"orange"
     },
         {
         "id": 5,
-        "title":"TITULO",
-        "descripcion":" DESCRIP",
-        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
-        "color":"red"
+        "title":"Soft Skills The software developer's life manual",
+        "descripcion":"     Soft Skills es un libro que aborda las habilidades no técnicas necesarias para tener éxito en la carrera de desarrollo de software, incluyendo comunicación, gestión del tiempo, trabajo en equipo y desarrollo personal.",
+        "img":"https://images.cdn1.buscalibre.com/fit-in/660x660/cc/3b/cc3b33afae23a16204e8a23e8b98c8e8.jpg",
+        "color":"lightblue"
     },
     {
         "id": 6,
-        "title":"TITULO",
-        "descripcion":" DESCRIP",
-        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
-        "color":"blue"
+        "title":"Make it Stick: The Science of Successful Learning",
+        "descripcion":" Make It Stick es un libro que explora la ciencia del aprendizaje efectivo, ofreciendo estrategias basadas en la investigación para mejorar la retención de información y el rendimiento académico.",
+        "img":"https://assets.libsyn.com/content/10777016/Make_It_Stick_The_Science_of_Successful_Learning.jpg",
+        "color":"lightgray"
     }
 ]

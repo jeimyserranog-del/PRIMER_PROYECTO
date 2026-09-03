@@ -4,10 +4,14 @@
     width: 60%; /* se maneja en porcentajes para que se acople a cualquier pantalla */
     height: 200px;
     gap: 10px; /* espacio entre la imagen y el texto */
+    margin: 20px;
+    border: 5px solid black;
+    
 }
 .Orde{
     flex-direction: column;
 }
+
 .CentrarC{  /* Contenedor grande */
     width: 100%;
     height: 100%;
