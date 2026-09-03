@@ -1,0 +1,49 @@
+[       {
+        "id": 0,
+        "title":"RECOMENDACIONES DE LIBROS FELIPE Y JEIMY",
+        "descripcion":" Bienvenidos a nuestra Biblioteca, este es un espacio creado para compartir los libros que más nos han marcado cada libro que aparece fue elegido porque realmente vale la pena, ya sea por lo que enseña o por la forma en que te hace pensar diferente.",
+        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg"
+    },
+    {
+        "id": 1,
+        "title":"Habitos Atomicos",
+        "descripcion":"Un libro que te enseña cómo pequeños cambios diarios pueden transformar tu vida por completo. James Clear explica de forma práctica cómo construir buenos hábitos, eliminar los malos y dominar los pequeños comportamientos que llevan a resultados extraordinarios.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPONg4NWsboxNGrm8YzJftzhD-zR_IBY4TNN7cAD-DUQ&s=10",
+        "color":"PaleGoldenrod"
+    },
+    {
+        "id": 2,
+        "title":"Metas Bryan Tracy",
+        "descripcion":" Una guía poderosa para definir y alcanzar tus objetivos con claridad y disciplina. Brian Tracy comparte estrategias probadas para establecer metas concretas, mantenerte enfocado y convertir tus sueños en logros reales paso a paso.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nvsxu0CXisGU0NoPJ8hluGeTrrlvxUXV6stbwX3DXdBDQZcnAsPAHN4&s=10",
+        "color":"Lavender"  
+    },
+    {
+        "id": 3,
+        "title":"Cien años de soledad",
+        "descripcion":"Una obra maestra del realismo mágico, donde Gabriel García Márquez narra la historia de la familia Buendía en el pueblo ficticio de Macondo.",
+        "img":"https://images.cdn3.buscalibre.com/fit-in/660x660/f8/c2/f8c2431249a2531d1270846d3528a3a2.jpg",
+        "color":"PaleGreen"
+    },
+    {
+        "id": 4,
+        "title":"TITULO",
+        "descripcion":" DESCRIP",
+        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+        "color":"orange"
+    },
+        {
+        "id": 5,
+        "title":"TITULO",
+        "descripcion":" DESCRIP",
+        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+        "color":"red"
+    },
+    {
+        "id": 6,
+        "title":"TITULO",
+        "descripcion":" DESCRIP",
+        "img":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+        "color":"blue"
+    }
+]

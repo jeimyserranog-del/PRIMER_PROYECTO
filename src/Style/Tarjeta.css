@@ -1,0 +1,18 @@
+.Centrar{   /* Contendor pequeño */
+    display: flex;
+    flex-direction: row;
+    width: 60%; /* se maneja en porcentajes para que se acople a cualquier pantalla */
+    height: 200px;
+    gap: 10px; /* espacio entre la imagen y el texto */
+}
+.Orde{
+    flex-direction: column;
+}
+.CentrarC{  /* Contenedor grande */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
